@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Bebas';
+    src: url('../fonts/bebas/Bebas.ttf') format('truetype'),
+         url('../fonts/bebas/Bebas.woff') format('woff'),
+         url('../fonts/bebas/Bebas.woff2')  format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url('../fonts/helvetica/HelveticaNeue.ttf') format('truetype'),
+         url('../fonts/helvetica/HelveticaNeue.woff') format('woff'),
+         url('../fonts/helvetica/HelveticaNeue.woff2')  format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
